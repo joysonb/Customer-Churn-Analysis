@@ -1,0 +1,7 @@
+CustomerID,Gender,SeniorCitizen,Tenure,Contract,PaymentMethod,MonthlyCharges,Churn
+C001,Male,No,2,Month-to-month,Electronic check,70,Yes
+C002,Female,No,24,One year,Mailed check,60,No
+C003,Male,Yes,5,Month-to-month,Electronic check,80,Yes
+C004,Female,No,36,Two year,Bank transfer,55,No
+C005,Male,No,12,Month-to-month,Credit card,65,Yes
+C006,Female,Yes,8,Month-to-month,Electronic check,75,Yes
